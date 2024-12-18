@@ -1,0 +1,45 @@
+.order-form input[type="text"] {
+    width: 95%;
+    padding: 12px;
+    border: 2px solid red;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: beige;
+    color: black;
+}
+
+
+.order-form input[type="email"] {
+    width: 95%;
+    padding: 12px;
+    border: 2px solid red;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: beige;
+    color: black;
+}
+
+.order-form input[type="Submit"] {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.order-form input[type="Submit"]:hover {
+    background-color: red;
+    color: black;
+    border: 2px solid;
+    padding: 12px;
+}
+
+.order-form {
+    background-color: cyan;
+    border: 5px dotted black;
+    padding: 20px;
+    border-radius: 10px;
+}
